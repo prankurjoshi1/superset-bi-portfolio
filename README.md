@@ -13,7 +13,7 @@ BI dashboards built using Apache Superset (Preset Cloud), demonstrating KPI desi
 - Highlights top-performing product lines and regions
 - Designed for sales and management decision-making
 
-📁 See: superset-bi-portfolio/vehicle-sales/
+📁 See: superset-bi-portfolio/vehicle-sales.jpg
 
 ---
 
@@ -22,4 +22,4 @@ BI dashboards built using Apache Superset (Preset Cloud), demonstrating KPI desi
 - Examines relationship between healthcare spending and outcomes
 - Uses World Bank public datasets
 
-📁 See: superset-bi-portfolio/health-indicators/
+📁 See: superset-bi-portfolio/health-indicators.jpg
